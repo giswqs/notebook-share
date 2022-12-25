@@ -49,6 +49,7 @@ nav:
   - Home: index.md
   - Notebooks:
       - goes.ipynb
+      - template.ipynb
   - Blog: https://blog.gishub.org
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/notebook-share/issues
