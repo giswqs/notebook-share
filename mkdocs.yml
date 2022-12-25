@@ -1,12 +1,23 @@
 site_name: Notebook Share
 
-site_url: https://giswqs.github.io/notebook-share
+site_url: https://share.gishub.org
 
 repo_url: https://github.com/giswqs/notebook-share
 
 theme:
   palette:
-    scheme: preference
+    - scheme: default
+      #   primary: blue
+      #   accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   name: material
   icon:
     repo: fontawesome/brands/github
@@ -39,5 +50,5 @@ nav:
   - Notebooks:
       - geos.ipynb
   - Blog: https://blog.gishub.org
-  - YouTube Channel: https://www.youtube.com/c/QiushengWu
+  - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/notebook-share/issues
