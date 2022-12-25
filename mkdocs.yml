@@ -48,7 +48,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Notebooks:
-      - geos.ipynb
+      - goes.ipynb
   - Blog: https://blog.gishub.org
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/notebook-share/issues
