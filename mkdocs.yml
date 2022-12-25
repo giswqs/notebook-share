@@ -56,7 +56,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Notebooks:
+  - Notebook:
       - goes_timelapse.ipynb
       - template.ipynb
   - Markdown:
