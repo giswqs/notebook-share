@@ -41,8 +41,8 @@ plugins:
       ignore_h1_titles: True
       execute: False
       allow_errors: false
-      ignore: ["template.ipynb"]
-      # execute_ignore: "path/*.ipynb"
+      ignore: ["name.ipynb"]
+      execute_ignore: "path/*.ipynb"
 
 markdown_extensions:
   - attr_list
