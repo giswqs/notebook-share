@@ -58,6 +58,7 @@ nav:
   - Home: index.md
   - Notebook:
       - goes_timelapse.ipynb
+      - pakistan_floods.ipynb
       - template.ipynb
   - Markdown:
       - document.md
