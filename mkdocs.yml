@@ -59,7 +59,6 @@ nav:
   - Notebook:
       - goes_timelapse.ipynb
       - pakistan_floods.ipynb
-      - AmericaView_2023.ipynb
       - template.ipynb
   - Markdown:
       - document.md
