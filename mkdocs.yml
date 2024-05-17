@@ -42,7 +42,7 @@ plugins:
       execute: False
       allow_errors: false
       ignore: ["name.ipynb"]
-      execute_ignore: "path/*.ipynb"
+      execute_ignore: ["path/*.ipynb"]
 
 markdown_extensions:
   - attr_list
@@ -60,7 +60,7 @@ nav:
       - goes_timelapse.ipynb
       - pakistan_floods.ipynb
       - morocco_earthquake.ipynb
-      - brazil_earthquake.ipynb
+      - brazil_floods.ipynb
       - template.ipynb
   - Markdown:
       - document.md
