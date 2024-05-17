@@ -60,6 +60,7 @@ nav:
       - goes_timelapse.ipynb
       - pakistan_floods.ipynb
       - morocco_earthquake.ipynb
+      - brazil_earthquake.ipynb
       - template.ipynb
   - Markdown:
       - document.md
