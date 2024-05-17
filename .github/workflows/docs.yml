@@ -56,10 +56,6 @@ jobs:
         run: |
           pip install --no-cache-dir Cython PyYAML==6.0.1
           pip install -r requirements.txt
-          pip install .
-
-      - name: PKG-TEST
-        run: python -m unittest discover tests/
 
       - name: Install mkdocs
         run: pip install -r requirements_docs.txt
