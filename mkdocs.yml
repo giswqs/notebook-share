@@ -61,6 +61,7 @@ nav:
       - pakistan_floods.ipynb
       - morocco_earthquake.ipynb
       - brazil_floods.ipynb
+      - dongting_lake_floods.ipynb
       - template.ipynb
   - Markdown:
       - document.md
