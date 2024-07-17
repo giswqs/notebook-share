@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://share.gishub.org/dongting_lake_floods/</loc>
+         <lastmod>2024-07-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://share.gishub.org/goes_timelapse/</loc>
          <lastmod>2024-07-17</lastmod>
          <changefreq>daily</changefreq>
